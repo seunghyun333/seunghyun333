@@ -11,6 +11,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyun333&show_icons=true&theme=radical)
 
 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 <!--
 **seunghyun333/seunghyun333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
